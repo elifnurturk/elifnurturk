@@ -2,6 +2,10 @@
 
 <h3 align="center" color="A53D27">A passionate software engineer with computer science engineering degree.</h3>
 
+- 👩‍🎓 I completed my bachelor's degree in computer science in Türkiye and Portugal.
+
+- 👩‍💻 I've gained experience working in a range of companies across Turkey, Belgium, and Cyprus.
+
 - 🔭 I’m currently working on **Web Projects (Vue.js with Nuxt.js & React.js with Next.js & Wordpress Elementor & SEO applications and web testing)**
 
 - 📫 How to reach me **elifnurturk.ent@gmail.com**
