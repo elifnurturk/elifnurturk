@@ -7,8 +7,8 @@
 
 - 👩‍🎓 I completed my bachelor's degree in computer science in Turkiye and Portugal.
 
-- 👩‍💻 I've gained experience working in a range of companies across Turkiye, Belgium, and Cyprus.
-
+- 👩‍💻 I have gained experience working in a variety of companies on a full-time, intern, and contract basis across Turkiye and Europe.
+- 
 - 🔭 I’m currently working on **Web Projects (Vue.js with Nuxt.js & React.js with Next.js & Wordpress Elementor & SEO applications and web testing)**
 
 - 📝 I regularly write articles on [https://elifnurturk.medium.com/](https://elifnurturk.medium.com/)
