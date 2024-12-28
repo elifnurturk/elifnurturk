@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **elifnurturk.ent@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vB1Me4NX6n_plDIz0QgKMQCJpH6xvqBZ/view?usp=sharing](https://drive.google.com/file/d/1vB1Me4NX6n_plDIz0QgKMQCJpH6xvqBZ/view?usp=sharing](https://www.linkedin.com/in/elif-nur-t%C3%BCrk-333319196/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/elif-nur-t%C3%BCrk-333319196/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
