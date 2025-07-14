@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">A passionate Fullstack Software Engineer from Cyprus</h3>
+<h3 align="center">Multidisciplinary full-stack engineer with a strong engineering education and international experience across Asia and Europe. Highly adaptable to diverse environments and cultures, with a proven ability to thrive in dynamic, cross-functional teams.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elifnurturk" alt="elifnurturk" /></a> </p>
 
