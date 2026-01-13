@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **web projects**
 
-- 👨‍💻 All of my projects are available at [github.com/@elifnurturk](github.com/@elifnurturk)
-
 - 📝 I regularly write articles on [https://elifnurturk.medium.com/](https://elifnurturk.medium.com/)
 
-- 💬 Ask me about **Vue, React, Nuxt, Node.js and Next.js**
+- 💬 Ask me about **Vue, React, Node.js**
 
 - 📫 How to reach me **elifnurturk.ent@gmail.com**
 
