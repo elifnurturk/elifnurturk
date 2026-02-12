@@ -69,7 +69,14 @@ I write about frontend performance, system design, and real-world engineering tr
 
 ---
 
-http://camo.githubusercontent.com/85698be98d62afc8959b8b58c1c9fb243d9cffd86ea5914b88fe889a965afcb2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656c69666e75727475726b26
+<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=elifnurturk&no-bg=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifnurturk&show_icons=true&theme=dark&cache_seconds=21600)
+
+<img src="http://camo.githubusercontent.com/85698be98d62afc8959b8b58c1c9fb243d9cffd86ea5914b88fe889a965afcb2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656c69666e75727475726b26"
+     alt="GitHub Streak Stats" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=elifnurturk&theme=dark&no-frame=true&margin-w=10)
+
+</div>
 
