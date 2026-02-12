@@ -69,5 +69,5 @@ I write about frontend performance, system design, and real-world engineering tr
 
 ---
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=elifnurturk&no-bg=true
-)
+![Trophies](https://github-profile-trophy.vercel.app/?username=elifnurturk&no-bg=true)
+
