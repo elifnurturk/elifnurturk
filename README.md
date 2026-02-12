@@ -1,6 +1,6 @@
 # Hi, I'm Elif 👋
 
-### Senior Frontend & Full-Stack Engineer  
+### Full-Stack Engineer  
 **Performance Engineering · Frontend Architecture · Production Ownership**
 
 I specialize in **high-performance frontend systems** and production-grade web applications,  
